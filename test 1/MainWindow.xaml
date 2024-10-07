@@ -1,0 +1,46 @@
+﻿<Window x:Class="test_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:test_1"
+        mc:Ignorable="d"
+        Title="MainWindow" MinHeight="600" MinWidth="1000">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0"/>
+        <TextBox x:Name="SearchTextBox" Width="150" HorizontalAlignment="Left" Margin="10" SelectionChanged="SearchTextBox_SelectionChanged"></TextBox>
+        <RadioButton x:Name="SortUpRadioButton" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="190,0,0,0" Content="По возрастанию" Checked="SortUpRadioButton_Checked"></RadioButton>
+        <RadioButton x:Name="SortDownRadioButton" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="320,0,0,0" Content="По убыванию" Checked="SortDownRadioButton_Checked"></RadioButton>
+        <ComboBox x:Name="RoleBox" DisplayMemberPath="Name" Width="150" Height="30" SelectionChanged="RoleBox_SelectionChanged"></ComboBox>
+        <Grid>
+            <Grid Grid.Row="1">
+                <ListView x:Name="UseListView" Margin="30" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="200"></ColumnDefinition>
+                                    <ColumnDefinition Width="200"></ColumnDefinition>
+                                    <ColumnDefinition Width="300"></ColumnDefinition>
+                                    <ColumnDefinition Width="200"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Grid Grid.Column="0">
+                                    <TextBlock Text="{Binding Role.Name, StringFormat='Должность:\{0\}'}" VerticalAlignment="Center"></TextBlock>
+                                </Grid>
+                                <Grid Grid.Column="1">
+                                    <StackPanel HorizontalAlignment="Left" VerticalAlignment="Center">
+                                    </StackPanel>
+                                </Grid>
+                            </Grid>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

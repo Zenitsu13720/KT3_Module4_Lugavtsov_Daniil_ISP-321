@@ -1,0 +1,22 @@
+C:\Users\comcuru\Desktop\Модуль_4_Отображение ListView + добавление и редактирование\test 1\test 1\bin\Debug\test 1.exe.config
+C:\Users\comcuru\Desktop\Модуль_4_Отображение ListView + добавление и редактирование\test 1\test 1\bin\Debug\test 1.exe
+C:\Users\comcuru\Desktop\Модуль_4_Отображение ListView + добавление и редактирование\test 1\test 1\bin\Debug\test 1.pdb
+C:\Users\comcuru\Desktop\Модуль_4_Отображение ListView + добавление и редактирование\test 1\test 1\obj\Debug\MainWindow.g.cs
+C:\Users\comcuru\Desktop\Модуль_4_Отображение ListView + добавление и редактирование\test 1\test 1\obj\Debug\App.g.cs
+C:\Users\comcuru\Desktop\Модуль_4_Отображение ListView + добавление и редактирование\test 1\test 1\obj\Debug\test 1_MarkupCompile.cache
+C:\Users\comcuru\Desktop\Модуль_4_Отображение ListView + добавление и редактирование\test 1\test 1\obj\Debug\test 1_MarkupCompile.lref
+C:\Users\comcuru\Desktop\Модуль_4_Отображение ListView + добавление и редактирование\test 1\test 1\obj\Debug\MainWindow.baml
+C:\Users\comcuru\Desktop\Модуль_4_Отображение ListView + добавление и редактирование\test 1\test 1\obj\Debug\test 1.g.resources
+C:\Users\comcuru\Desktop\Модуль_4_Отображение ListView + добавление и редактирование\test 1\test 1\obj\Debug\test_1.Properties.Resources.resources
+C:\Users\comcuru\Desktop\Модуль_4_Отображение ListView + добавление и редактирование\test 1\test 1\obj\Debug\test 1.csproj.GenerateResource.cache
+C:\Users\comcuru\Desktop\Модуль_4_Отображение ListView + добавление и редактирование\test 1\test 1\obj\Debug\test 1.csproj.CoreCompileInputs.cache
+C:\Users\comcuru\Desktop\Модуль_4_Отображение ListView + добавление и редактирование\test 1\test 1\obj\Debug\test 1.exe
+C:\Users\comcuru\Desktop\Модуль_4_Отображение ListView + добавление и редактирование\test 1\test 1\obj\Debug\test 1.pdb
+C:\Users\comcuru\Desktop\Модуль_4_Отображение ListView + добавление и редактирование\test 1\test 1\obj\Debug\test 1.csproj.AssemblyReference.cache
+C:\Users\comcuru\Desktop\Модуль_4_Отображение ListView + добавление и редактирование\test 1\test 1\bin\Debug\EntityFramework.dll
+C:\Users\comcuru\Desktop\Модуль_4_Отображение ListView + добавление и редактирование\test 1\test 1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\comcuru\Desktop\Модуль_4_Отображение ListView + добавление и редактирование\test 1\test 1\bin\Debug\EntityFramework.xml
+C:\Users\comcuru\Desktop\Модуль_4_Отображение ListView + добавление и редактирование\test 1\test 1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\comcuru\Desktop\Модуль_4_Отображение ListView + добавление и редактирование\test 1\test 1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\comcuru\Desktop\Модуль_4_Отображение ListView + добавление и редактирование\test 1\test 1\obj\Debug\test 1_Content.g.cs
+C:\Users\comcuru\Desktop\Модуль_4_Отображение ListView + добавление и редактирование\test 1\test 1\obj\Debug\test 1.csproj.CopyComplete
